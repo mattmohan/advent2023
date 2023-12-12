@@ -1,4 +1,4 @@
-package main
+package days
 
 import (
 	"fmt"

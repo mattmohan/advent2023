@@ -1,5 +1,9 @@
 package main
 
+import (
+	"github.com/mattmohan/advent2023/days"
+)
+
 func main() {
-	Day3Main()
+	days.Day11Main()
 }
